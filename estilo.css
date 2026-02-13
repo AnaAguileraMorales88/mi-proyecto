@@ -1,0 +1,16 @@
+.titulo {
+    text-align: center;
+    color: beige;
+    background-color: blueviolet;
+    padding: 20px;
+    animation: aparecer 2s ease-in-out;
+
+}
+@keyframes aparecer {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
