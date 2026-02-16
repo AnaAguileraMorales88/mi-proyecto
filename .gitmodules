@@ -1,0 +1,3 @@
+[submodule "repolocal11"]
+	path = repolocal11
+	url = git@github.com:SectionOne/repolocal11.git
